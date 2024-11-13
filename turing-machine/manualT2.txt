@@ -1,0 +1,11 @@
+O arquivo executável está presente na pasta dist/trabalho02_tc.exe. 
+
+Além do executável, estão presentes três arquivos de entrada que são os mesmos utilizados no relatório. 
+Para utilizá-los, basta renomear o arquivo de entrada desejado como entrada.txt e clicar no executável, espera-se a geração de um arquivo saida.txt
+com os resultados do simulador.
+
+Caso deseja-se testar um outro arquivo, basta colocá-lo na mesma pasta com o nome entrada.txt
+
+Além do relatório, também está presente o código fonte tanto em .py como em .ipynb.
+Caso seja desejado um detalhamento maior do funcionamento do código com a entrada, basta executar o código fonte,
+onde estão presentes maiores informações sobre as configurações do autômato e como ele testa as cadeias.

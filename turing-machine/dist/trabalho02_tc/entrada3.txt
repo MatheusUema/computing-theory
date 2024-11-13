@@ -1,0 +1,17 @@
+3
+2 a b
+1 B
+2
+5
+0 b 0 b R
+0 a 1 a R
+1 b 1 b R
+1 a 0 a R
+0 B 0 B R
+6
+abaa
+aabaa
+abbbbba
+abba
+a
+aba
